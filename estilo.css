@@ -1,0 +1,27 @@
+body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: grey;
+  
+}
+
+img{
+  width: 700px;
+  height: 400px;
+  display: flex;
+}
+
+.titulo{
+  color: white;
+}
+
+.text-justify{
+  text-align: center;
+  color: white;
+}
+
+video{
+  width: 700px;
+  height: 300px;
+}
